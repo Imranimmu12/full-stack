@@ -1,8 +1,7 @@
 .bg-img{
     background-image: url('https://img.freepik.com/free-vector/beautiful-beach-design_1176-266.jpg?t=st=1721979206~exp=1721982806~hmac=0231b539d1b83099c38ffc9c97a294463387501580cfc61529ceb3acb558dcf7&w=360');
-    height: 1000px;
+    height: 160em;
     background-repeat: no-repeat;
-}
-.bg-heading{
-
+    background-size: cover;
+    
 }
